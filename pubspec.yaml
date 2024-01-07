@@ -1,0 +1,97 @@
+name: ibeacon
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+
+
+
+
+
+
+
+
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+
+
+
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get_storage: ^2.0.3
+  cached_network_image: ^3.2.3
+  cupertino_icons: ^1.0.2
+  get: ^4.6.5
+  flutter_beacon: ^0.5.1
+  beacon_scanner: ^0.0.4
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  
+  
+  
+  
+  flutter_lints: ^2.0.0
+
+
+
+
+
+flutter:
+
+  
+  
+  
+  uses-material-design: true
+
+
+  assets:
+    # - assets/gifs/
+    # - assets/icons/
+    - assets/images/
+    # - assets/lotties/
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
