@@ -80,7 +80,11 @@ abstract class AppStrings {
   static const String instructor = 'instructor';
   static const String start = 'start';
   static const String scanBeacon = 'Scan Beacon';
-  static const String note = 'the session has been opened\n to attend please make sure that bluetooth is turned on first ';
+  static const String thePageIsClosed = 'The page is closed';
+
+  static const String note01 = 'the session has been opened\n to attend please make sure that bluetooth is turned on first ';
+  // static const String note02 = 'Wait, the session has not opened yed ';
+  static const String note03 = 'the {course name} session will opened with permission form the course instructor';
 
 
 

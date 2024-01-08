@@ -26,6 +26,7 @@ abstract class AppDimensions {
   static const double paddingOrMargin16 = 16.0;
   static const double paddingOrMargin20 = 20.0;
   static const double paddingOrMargin40 = 40.0;
+  static const double paddingOrMargin50 = 50.0;
   static const double paddingOrMargin100 = 100.0;
 
   static const double thickness_5 = 0.5;

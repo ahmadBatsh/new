@@ -18,7 +18,7 @@ class App extends StatelessWidget {
 
       // Routing
       getPages: AppPages.pages,
-      initialRoute: AppRoutes.attendance,
+      initialRoute: AppRoutes.scanIBeacon,
 
       // Theme
       // theme: AppThemes.getAppTheme(),
